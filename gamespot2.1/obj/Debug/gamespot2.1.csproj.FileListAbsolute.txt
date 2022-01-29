@@ -1,0 +1,16 @@
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\bin\Debug\gamespot2.1.exe.config
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\bin\Debug\gamespot2.1.exe
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\bin\Debug\gamespot2.1.pdb
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.csproj.AssemblyReference.cache
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2._1.Properties.Resources.resources
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.csproj.GenerateResource.cache
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.csproj.CoreCompileInputs.cache
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.exe
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.pdb
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2._1.About.resources
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2._1.Catapult.resources
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\bin\Debug\gamespot2.1.exe.manifest
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\bin\Debug\gamespot2.1.application
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.exe.manifest
+C:\Users\Domenico Valentino\source\repos\gamespot2.1\gamespot2.1\obj\Debug\gamespot2.1.application
